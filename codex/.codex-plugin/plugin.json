@@ -1,11 +1,11 @@
 {
   "name": "aliado-docente",
-  "version": "0.12.0",
+  "version": "0.12.1",
   "description": "Criterio didáctico sobre el currículum chileno de Matemática y Lenguaje: qué deben dominar antes, dónde se atasca el curso y cómo notarlo, con qué remediarlo y con qué respaldo normativo.",
   "author": {
     "name": "MindTheContext"
   },
-  "repository": "https://github.com/mindthecontext/mcp-aliado-docente",
+  "repository": "https://github.com/mindthecontext/saber-aliado-docente",
   "keywords": [
     "education",
     "curriculum",
