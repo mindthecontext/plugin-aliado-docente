@@ -4,6 +4,14 @@
 
 Qué cambia para quien usa este saber, versión por versión. Lo que corre de verdad el servicio lo dice su herramienta `ver_cambios`; esto es la copia del paquete.
 
+## v0.12.3 · 2026-09-15
+
+Si tu cuenta está autenticada pero no tiene habilitado este servicio, ahora te lo dice: el conector aparece conectado, y al usarlo recibes el motivo y a quién pedir la habilitación. Antes aparecía como si faltara autorizar, y volver a autorizar no lo arreglaba.
+
+- Herramientas: `buscar_objetivos`, `fundamentar`, `listar_cobertura`, `obtener_adaptaciones`, `obtener_criterio`, `obtener_didactica`, `obtener_secuencia`, `preparar_respuesta_docente`, `ver_cambios`
+- Skills: `adaptar-para-la-diversidad`, `anticipar-dificultades`, `armar-un-material`, `comparar-rutas-de-datos`, `comunicar-a-familias`, `disenar-evaluacion-formativa`, `empezar-aqui`, `ensenar-a-aprender`, `evaluar-recuperacion`, `fundamentar-una-decision`, `ia-en-el-aula`, `ordenar-la-progresion`, `preparar-una-clase`
+- Datos: sin manifiesto
+
 ## v0.12.2 · 2026-09-15
 
 El saber dice qué cambió de una versión a otra y en qué versión está corriendo: aparece `ver_cambios`. Y si es la primera vez que te conectas —o te conectas desde una cuenta que el servicio todavía no conoce, con tu mismo correo—, tu cuenta queda reconocida en la primera consulta también cuando el servicio acaba de arrancar. Lo que ya respondía sigue igual.
