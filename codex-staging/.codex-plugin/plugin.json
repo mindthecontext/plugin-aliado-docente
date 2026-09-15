@@ -1,0 +1,23 @@
+{
+  "name": "aliado-docente-staging",
+  "version": "0.12.2",
+  "description": "Criterio didáctico sobre el currículum chileno de Matemática y Lenguaje: qué deben dominar antes, dónde se atasca el curso y cómo notarlo, con qué remediarlo y con qué respaldo normativo.",
+  "author": {
+    "name": "MindTheContext"
+  },
+  "repository": "https://github.com/mindthecontext/saber-aliado-docente",
+  "keywords": [
+    "education",
+    "curriculum",
+    "chile",
+    "teaching",
+    "didactics"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Aliado Docente",
+    "shortDescription": "Didáctica del currículum chileno, con la procedencia a la vista",
+    "longDescription": "Responde preguntas de aula sobre Matemática y Lenguaje de 1° básico a 2° medio: qué conocimientos previos exige un objetivo, qué errores suelen aparecer y cómo detectarlos en clase, con qué remediarlos, cómo adaptar sin bajar la expectativa y qué normativa respalda una decisión. Distingue lo extraído de documentación oficial de lo inferido por un modelo, declara lo que la base no sostiene en vez de completarlo, y no diagnostica estudiantes."
+  },
+  "mcpServers": "./.mcp.json"
+}
