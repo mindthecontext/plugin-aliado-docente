@@ -1,5 +1,5 @@
 ---
-description: Prepara el criterio y la evidencia para redactar una guía, una rúbrica o un set de ejercicios — «hazme una guía de fracciones para 5°», «necesito una rúbrica», «arma ejercicios de esto», «prepárame material para la clase». El servicio no genera el material: entrega con qué redactarlo para que ataque los errores reales del objetivo.
+description: "Prepara el criterio y la evidencia para redactar una guía, una rúbrica o un set de ejercicios — «hazme una guía de fracciones para 5°», «necesito una rúbrica», «arma ejercicios de esto», «prepárame material para la clase». El servicio no genera el material: entrega con qué redactarlo para que ataque los errores reales del objetivo."
 ---
 
 # Armar un material

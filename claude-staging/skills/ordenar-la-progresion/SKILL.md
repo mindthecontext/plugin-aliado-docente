@@ -1,5 +1,5 @@
 ---
-description: Ordena el contenido de una unidad y explica qué va antes de qué — «¿qué va primero?», «en qué orden armo la unidad», «por qué el curso no está listo para esto», «qué tienen que saber antes», «cómo secuencio esto». La puerta más delicada: la secuencia declarada existe solo en Matemática, y ahí para un tercio de los objetivos.
+description: "Ordena el contenido de una unidad y explica qué va antes de qué — «¿qué va primero?», «en qué orden armo la unidad», «por qué el curso no está listo para esto», «qué tienen que saber antes», «cómo secuencio esto». La puerta más delicada: la secuencia declarada existe solo en Matemática, y ahí para un tercio de los objetivos."
 ---
 
 # Ordenar la progresión

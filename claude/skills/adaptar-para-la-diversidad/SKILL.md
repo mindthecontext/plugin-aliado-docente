@@ -1,5 +1,5 @@
 ---
-description: Entrega adecuaciones curriculares y estrategias de apoyo para un objetivo — «tengo un estudiante con TEA», «cómo incluyo al que va más atrás», «qué adecuación puedo hacer», «tengo un niño del PIE en el curso», «cómo adapto sin bajarle la expectativa». No diagnostica: informa apoyos para un perfil que la docente aporta.
+description: "Entrega adecuaciones curriculares y estrategias de apoyo para un objetivo — «tengo un estudiante con TEA», «cómo incluyo al que va más atrás», «qué adecuación puedo hacer», «tengo un niño del PIE en el curso», «cómo adapto sin bajarle la expectativa». No diagnostica: informa apoyos para un perfil que la docente aporta."
 ---
 
 # Adaptar para la diversidad

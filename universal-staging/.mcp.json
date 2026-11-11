@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aliado-docente": {
+      "type": "http",
+      "url": "https://aliado-docente-staging.mcp.mindthecontext.ai/mcp"
+    }
+  }
+}
